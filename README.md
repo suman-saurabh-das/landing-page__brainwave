@@ -42,7 +42,7 @@ Brainwave is a fully responsive landing page for an AI website developed using R
 
 - Clone repository : `git clone https://github.com/suman-saurabh-das/.git`
 - Navigate to project directory : `cd landing-page__brainwave__UI`  
-- Install depenedencies :  `npm install`
+- Install depenedencies : `npm install`
 - Run the project : `npm run dev`
 
 ## Credits

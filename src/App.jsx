@@ -1,16 +1,12 @@
 import ButtonGradient from './assets/svg/ButtonGradient';
-import Button from './components/Button';
+import Header from './components/Header';
 
 const App = () => {
   return (
     <>
-      <h1 className="text-3xl text-sky-600 font-bold">
-        Brainwave 🌊
-      </h1>
+      {/* We have added padding top (pt-[4.75rem] lg:pt-[5.25rem]) because Header is fixed and we do not want it to overlap with the content above i.e. Navbar */}
       <div className="overflow-hidden pt-[4.75rem] lg:pt-[5.25rem]">
-        <Button className="mt-10">
-          Login
-        </Button>
+        <Header />
       </div>
       {/* ButtonGradient is an svg using which we are giving a gradient effect to the button */}
       <ButtonGradient />
