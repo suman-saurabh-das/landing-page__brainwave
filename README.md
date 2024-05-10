@@ -24,25 +24,26 @@ Brainwave is a fully responsive landing page for an AI website developed using R
 
 ## Features
 
-- Beautiful Sections: header, hero, services, features, how to use, roadmap, pricing, footer.
-- Parallax Animations: Engaging effects triggered by mouse movement and scrolling.
-- Complex UI Geometry: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
+- Responsive UI: Ensures seamless functionality and aesthetics across all devices.
+- Beautiful Sections: Header, Hero, Services, Features, How to use, Roadmap, Pricing, Footer.
 - Latest UI Trends: Incorporates modern design elements such as bento grids.
+- Parallax Animations: Engaging effects triggered by mouse movement and scrolling.
 - Cool Gradients: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
-- Responsive: Ensures seamless functionality and aesthetics across all devices.
+- Complex UI Geometry: Utilizes tailwind css for intricate shapes like circular rings, grid lines, and side lines.
 
-## Techstack
+## Tech-stack
 
 - Build tool : `vite`
 - Routing : `react-router-dom`
 - Styling : `tailwind css`
 - UI library : `react.js`
+- Parallax effects : `react-just-parallax`
 
 ## Setup
 
 - Clone repository : `git clone https://github.com/suman-saurabh-das/.git`
 - Navigate to project directory : `cd landing-page__brainwave__UI`  
-- Install depenedencies : `npm install`
+- Install dependencies : `npm install`
 - Run the project : `npm run dev`
 
 ## Credits

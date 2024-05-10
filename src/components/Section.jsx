@@ -2,11 +2,13 @@ import SectionSvg from '../assets/svg/SectionSvg';
 
 const Section = ({ className, id, crosses, crossesOffset, customPaddings, children }) => {
   return (
-    <div id={id} className={`relative 
-        ${customPaddings || `py-10 lg:py-16 xl:py-20 
-          ${crosses ? "py-32 xl:py-40" : ""} ${className || ""}`
-      }`
-    }>
+    <div id={id} className={
+      `relative 
+        ${customPaddings || `py-10 lg:py-16 xl:py-20 ${crosses ? "lg:py-32 xl:py-40" : ""}`} 
+        ${className || ""}
+      `
+    }
+    >
       {children}
       {/* Left side line - only visible for large devices */}
       <div className="hidden md:block absolute top-0 left-5 lg:left-7.5 xl:left-10 bg-stroke-1 pointer-events-none h-full w-0.25" />
