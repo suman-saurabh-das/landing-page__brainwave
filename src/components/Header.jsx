@@ -12,7 +12,7 @@ const Header = () => {
   // useLocation() hook gives us access to the current URL that we are on.
   const pathname = useLocation();
   // console.log(pathname);
-  const [openNavigation, setOpenNavigation] = useState(true);
+  const [openNavigation, setOpenNavigation] = useState(false);
 
   // Toggle the navbar menu (mobile devices)
   const toggleNavigation = () => {
@@ -40,7 +40,7 @@ const Header = () => {
         </a>
 
         {/* Navbar */}
-        <nav className={`lg:flex bg-n-8 lg:bg-transparent fixed top-[5rem] right-0 bottom-0 left-0 lg:mx-auto lg:static ${openNavigation ? "flex" : "hidden"}`}>
+        <nav className={`lg:flex bg-n-8 lg:bg-transparent fixed top-[4.5rem] right-0 bottom-0 left-0 lg:mx-auto lg:static ${openNavigation ? "flex" : "hidden"}`}>
           {/* Nav items container */}
           <div className="flex flex-col lg:flex-row items-center justify-center m-auto relative z-2">
             {
