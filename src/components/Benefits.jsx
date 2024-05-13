@@ -61,6 +61,7 @@ const Benefits = () => {
                     }
                   </div>
                 </div>
+                {/* Clips the border of the image container to display the svg gradient border */}
                 <ClipPath />
               </div>
             ))
