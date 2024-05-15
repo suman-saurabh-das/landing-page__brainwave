@@ -1,4 +1,4 @@
-import Section from '../components/Section';
+import Section from './Section';
 import Button from './Button';
 
 import { brainwaveSymbol, check } from '../assets';
