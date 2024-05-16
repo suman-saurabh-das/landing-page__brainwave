@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import Benefits from './components/Benefits';
 import Collaboration from './components/Collaboration';
 import Services from './components/Services';
+import Pricing from './components/Pricing';
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
         <Benefits />
         <Collaboration />
         <Services />
+        <Pricing />
       </div>
       {/* ButtonGradient is an svg using which we are giving a gradient effect to the button */}
       <ButtonGradient />
