@@ -35,7 +35,7 @@ const Hero = () => {
           </p>
 
           {/* Call to action button */}
-          <Button href="/pricing" white={true}>
+          <Button href="#pricing" white={true}>
             Get started
           </Button>
         </div>
