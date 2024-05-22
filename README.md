@@ -18,9 +18,9 @@ Brainwave is a fully responsive landing page for an AI website developed using R
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1jGBX76NXE14-C5xUIuF4hS4aXedquXwH)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=)
+![App Screenshot](https://drive.google.com/uc?export=view&id=16iof9gkcu_DD3PlW87We5RYlwAYHfTiT)
 
 ## Features
 
