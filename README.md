@@ -1,5 +1,5 @@
 
-# Brainwave - AI website landing page
+# Brainwave - AI chatbot landing page
 
 ## Project link
 Access my site at [brainwave-saurabh.netlify.app](https://brainwave-saurabh.netlify.app)
@@ -14,13 +14,13 @@ Access my site at [brainwave-saurabh.netlify.app](https://brainwave-saurabh.netl
 - [Credits](#credits)
 
 ## Introduction
-Brainwave is a fully responsive landing page for an AI website developed using React.js and Tailwind CSS, exemplifing modern UI/UX principles.
+Brainwave is a fully responsive landing page for an AI website developed using React.js and Tailwind CSS, exemplifying modern UI/UX principles.
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1zOrijyGOMlRE3CyuiPzVLySDaQizLis5)
+![App Screenshot](https://drive.google.com/uc?export=view&id=)
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=1CWSFV8o7CTX2zECfiH1BDMAZSGVomdu2)
+![App Screenshot](https://drive.google.com/uc?export=view&id=)
 
 ## Features
 
