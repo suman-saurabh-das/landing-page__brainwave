@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { brainwaveWhiteSymbol, gradient, play } from "../../assets";
 import ChatBubbleWing from "../../assets/svg/ChatBubbleWing";
 

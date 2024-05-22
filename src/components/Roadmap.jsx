@@ -1,3 +1,4 @@
+import React from 'react';
 import Section from './Section';
 import Heading from './Heading';
 import Tagline from './Tagline';

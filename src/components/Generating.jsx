@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { loading } from '../assets'
 
 const Generating = ({ className }) => {

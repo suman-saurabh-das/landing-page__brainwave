@@ -1,3 +1,5 @@
+import React from 'react';
+
 import { gradient } from "../../assets";
 
 export const Gradient = () => {

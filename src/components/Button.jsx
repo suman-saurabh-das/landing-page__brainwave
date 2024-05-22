@@ -1,3 +1,4 @@
+import React from 'react';
 import ButtonSvg from '../assets/svg/ButtonSvg';
 
 // Button is a reusable component.
